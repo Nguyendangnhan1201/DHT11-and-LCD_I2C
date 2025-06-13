@@ -27,7 +27,7 @@ void setup() {
   lcd.setCursor(4,0);
   lcd.print("Welcome");
   lcd.setCursor(2,1);
-  lcd.print("Mr.Dang Nhan");
+  lcd.print("Your name");
   delay(2000);
   lcd.clear();
  
